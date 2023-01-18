@@ -28,4 +28,3 @@ Peek at some of my fledgling accomplishments
 <img width="1281" alt="Pizza II " src="https://user-images.githubusercontent.com/118240863/213299555-fcc595ac-fd3d-4f64-ba4c-1c324728748e.png">
 <img width="1283" alt="Pizza III" src="https://user-images.githubusercontent.com/118240863/213299568-962b39cd-8750-4a31-8d13-af73519c31ed.png">
 
-<img width="367" alt="Port III" src="https://user-images.githubusercontent.com/118240863/213299594-9e983a69-9bef-41d4-ac7e-551b3cf65c4b.png">
