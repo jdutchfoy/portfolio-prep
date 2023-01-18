@@ -1,4 +1,4 @@
-[A Future](https://user-images.githubusercontent.com/118240863/211459950-6cb1b430-3926-42d5-82c4-02eb0eea267e.jpg)
+
 ![A Future](https://user-images.githubusercontent.com/118240863/213300789-ecc3b6c0-3b52-48d9-b838-8251a57b35c6.jpg)
 
 A New Future
