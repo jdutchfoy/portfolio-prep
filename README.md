@@ -5,6 +5,12 @@ A New Future
 
 Fullstack Developer Seeking Entry Level Opportunity
 
+Greetings, My name is Dutch, I am a recent graduate of Fullstack software development program. I was a successful bi coastal hair stylist for the last 12 years. During the time off in the pandemic, I had an opportunity to rethink my future, and I dove into the idea of coding which has always been of interest me. Both industries are lucrative, and creative, but now items such as healthcare, and retirement options are important to me as well. My previous job experience is extensive variations of customer service, from flight attendant , hospitality management, and high end retail. Those experiences have instilled resourcefulness, the ability to produce, meet goals, and deadlines. I hope we can speak further, as I’m confident I would be an asset to your company. Be Well
+
+Peek at some of my fledgling accomplishments
+
+
+
 ![CodePic](https://user-images.githubusercontent.com/118240863/211460217-ba7ed5de-b21a-4a94-a9ea-63998bff6de5.jpeg)
 
 
