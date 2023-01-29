@@ -8,19 +8,38 @@ Fullstack Developer Seeking Entry Level Opportunity
 ![CodePic](https://user-images.githubusercontent.com/118240863/211460217-ba7ed5de-b21a-4a94-a9ea-63998bff6de5.jpeg)
 
 
-Greetings,
+<h1 align="center">Junior Dev Dutch</h1>
+<h3 align="center">I am a recent graduate of Full-stack software development program and a US NAVY Veteran.</h3>
 
-My name is Dutch, I am a recent graduate of Fullstack software development program. I was a successful bi coastal hair stylist for the last 12 years.
-During the time off in the pandemic, I had an opportunity to rethink my future, and I dove into the idea of coding which has always been of interest me.
-Both industries are lucrative, and creative, but now items such as healthcare, and retirement options are important to me as well.
-My previous job experience is extensive variations of customer service, from flight attendant , hospitality management, and high end retail.
-Those experiences have instilled resourcefulness, the ability to produce, meet goals, and deadlines. I hope we can speak further, as I’m confident I would be an asset to your company. 
+- Portfolio Page [CLU](https://github.com/jdutchfoy/CLU.git)
 
-I look forward to finding my niche within tech that provides me an opportunity to create a more equitable future for everyone within the technology space. I am interested in cybersecurity, AI, CRISPR (Only because I’m a bit afraid of it), sustainable technology, and autonomous systems.
+- I’m currently learning **Python**
 
-Be Well
+- Hiring? **I am looking for a company that offers both an innovative and challenging environment, while fostering, and cultivating my personal growth and development ensuring a history of successful project delivery.**
 
-Peek at some of my fledgling accomplishments 
+- Professional History [https://docs.google.com/document/d/126h2gCU7-h6AvuG6WmgUPkURayhfAF3xpXZN3oKF0g4/edit?pli=1#](https://docs.google.com/document/d/126h2gCU7-h6AvuG6WmgUPkURayhfAF3xpXZN3oKF0g4/edit?pli=1#)
+
+- ⚡ Fun fact **My mother wanted to name me Christopher Robbin like the Winnie Pooh charecter**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/jdutchfoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jdutchfoy" height="30" width="40" /></a>
+<a href="https://dev.to/dutch foy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dutch foy" height="30" width="40" /></a>
+<a href="https://twitter.com/d3v0bsidian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d3v0bsidian" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dutch foy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dutch foy" height="30" width="40" /></a>
+<a href="https://codesandbox.com/jdutchfoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jdutchfoy" height="30" width="40" /></a>
+<a href="https://kaggle.com/dutch foy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dutch foy" height="30" width="40" /></a>
+<a href="https://medium.com/@dutch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dutch" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jdutchfoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jdutchfoy" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/th33admiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="th33admiral" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdutchfoy&show_icons=true&locale=en&layout=compact" alt="jdutchfoy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jdutchfoy&" alt="jdutchfoy" /></p>
 
 
 <img width="1315" alt="Port I" src="https://user-images.githubusercontent.com/118240863/213298459-859d9fc2-cf94-49c2-abab-6f7df8c34fea.png">
